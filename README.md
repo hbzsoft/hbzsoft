@@ -48,3 +48,5 @@ int main() {
     return 0;
 }
 ```
+
+⭐ *Feel free to reach out — I'm always open to collaboration, ideas, and conversations about privacy and technology.*
